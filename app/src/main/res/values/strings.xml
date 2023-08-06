@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">APExercise2</string>
+    <string name="app_simplecalculator">Simple Calculator</string>
+    <string name="app_num1">Enter number 1</string>
+    <string name="app_num2">Enter number 2</string>
+    <string name="app_Result">Result</string>
+    <string name="app_add">Add</string>
+    <string name="app_subtract">Subtract</string>
+    <string name="app_Multiply">Multiply</string>
+    <string name="app_divide">Divide</string>
+</resources>
